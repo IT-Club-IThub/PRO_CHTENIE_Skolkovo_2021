@@ -1,0 +1,4008 @@
+[
+  {
+    "id": "0008198",
+    "answer": false
+  },
+  {
+    "id": "0002998",
+    "answer": false
+  },
+  {
+    "id": "0008512",
+    "answer": false
+  },
+  {
+    "id": "0002431",
+    "answer": false
+  },
+  {
+    "id": "0002340",
+    "answer": false
+  },
+  {
+    "id": "0003094",
+    "answer": false
+  },
+  {
+    "id": "0008172",
+    "answer": false
+  },
+  {
+    "id": "0000967",
+    "answer": false
+  },
+
+  {
+    "id": "0001276",
+    "answer": false
+  },
+  {
+    "id": "0008595",
+    "answer": true
+  },
+  {
+    "id": "0008171",
+    "answer": true
+  },
+  {
+    "id": "0002375",
+    "answer": true
+  },
+  {
+    "id": "0008689",
+    "answer": true
+  },
+  {
+    "id": "0009325",
+    "answer": true
+  },
+  {
+    "id": "0000846",
+    "answer": true
+  },
+  {
+    "id": "0000835",
+    "answer": true
+  },
+  {
+    "id": "0008536",
+    "answer": true
+  },
+  {
+    "id": "0008544",
+    "answer": true
+  },
+  {
+    "id": "0009652",
+    "answer": true
+  },
+  {
+    "id": "0009142",
+    "answer": true
+  },
+  {
+    "id": "0009009",
+    "answer": true
+  },
+  {
+    "id": "0009137",
+    "answer": true
+  },
+  {
+    "id": "0005767",
+    "answer": true
+  },
+  {
+    "id": "0009821",
+    "answer": true
+  },
+  {
+    "id": "0008107",
+    "answer": true
+  },
+  {
+    "id": "0009396",
+    "answer": true
+  },
+  {
+    "id": "0000714",
+    "answer": true
+  },
+  {
+    "id": "0002951",
+    "answer": true
+  },
+  {
+    "id": "0009185",
+    "answer": true
+  },
+  {
+    "id": "0009413",
+    "answer": true
+  },
+  {
+    "id": "0008997",
+    "answer": true
+  },
+  {
+    "id": "0005748",
+    "answer": true
+  },
+  {
+    "id": "0002595",
+    "answer": true
+  },
+  {
+    "id": "0009748",
+    "answer": true
+  },
+  {
+    "id": "0002404",
+    "answer": true
+  },
+  {
+    "id": "0000794",
+    "answer": true
+  },
+  {
+    "id": "0000921",
+    "answer": true
+  },
+  {
+    "id": "0009811",
+    "answer": true
+  },
+  {
+    "id": "0009356",
+    "answer": true
+  },
+  {
+    "id": "0009296",
+    "answer": true
+  },
+  {
+    "id": "0001379",
+    "answer": true
+  },
+  {
+    "id": "0009034",
+    "answer": true
+  },
+  {
+    "id": "0001004",
+    "answer": true
+  },
+  {
+    "id": "0000969",
+    "answer": true
+  },
+  {
+    "id": "0008507",
+    "answer": true
+  },
+  {
+    "id": "0000707",
+    "answer": true
+  },
+  {
+    "id": "0005972",
+    "answer": true
+  },
+  {
+    "id": "0002785",
+    "answer": true
+  },
+  {
+    "id": "0002716",
+    "answer": true
+  },
+  {
+    "id": "0003164",
+    "answer": true
+  },
+  {
+    "id": "0000995",
+    "answer": true
+  },
+  {
+    "id": "0009003",
+    "answer": true
+  },
+  {
+    "id": "0009206",
+    "answer": true
+  },
+  {
+    "id": "0002965",
+    "answer": true
+  },
+  {
+    "id": "0009523",
+    "answer": true
+  },
+  {
+    "id": "0009774",
+    "answer": true
+  },
+  {
+    "id": "0003060",
+    "answer": true
+  },
+  {
+    "id": "0009511",
+    "answer": true
+  },
+  {
+    "id": "0003228",
+    "answer": true
+  },
+  {
+    "id": "0008975",
+    "answer": true
+  },
+  {
+    "id": "0003120",
+    "answer": true
+  },
+  {
+    "id": "0009017",
+    "answer": true
+  },
+  {
+    "id": "0000790",
+    "answer": true
+  },
+  {
+    "id": "0009116",
+    "answer": true
+  },
+  {
+    "id": "0002713",
+    "answer": true
+  },
+  {
+    "id": "0005844",
+    "answer": true
+  },
+  {
+    "id": "0009300",
+    "answer": true
+  },
+  {
+    "id": "0008696",
+    "answer": true
+  },
+  {
+    "id": "0002388",
+    "answer": true
+  },
+  {
+    "id": "0003757",
+    "answer": false
+  },
+  {
+    "id": "0004358",
+    "answer": false
+  },
+  {
+    "id": "0004153",
+    "answer": false
+  },
+  {
+    "id": "0004636",
+    "answer": false
+  },
+  {
+    "id": "0007302",
+    "answer": false
+  },
+  {
+    "id": "0003861",
+    "answer": false
+  },
+  {
+    "id": "0008030",
+    "answer": false
+  },
+  {
+    "id": "0007759",
+    "answer": false
+  },
+  {
+    "id": "0004382",
+    "answer": false
+  },
+  {
+    "id": "0007078",
+    "answer": false
+  },
+  {
+    "id": "0007032",
+    "answer": false
+  },
+  {
+    "id": "0004482",
+    "answer": false
+  },
+  {
+    "id": "0003866",
+    "answer": false
+  },
+  {
+    "id": "0003481",
+    "answer": false
+  },
+  {
+    "id": "0005215",
+    "answer": true
+  },
+  {
+    "id": "0005152",
+    "answer": true
+  },
+  {
+    "id": "0005435",
+    "answer": true
+  },
+  {
+    "id": "0005199",
+    "answer": true
+  },
+  {
+    "id": "0005259",
+    "answer": true
+  },
+  {
+    "id": "0005159",
+    "answer": true
+  },
+  {
+    "id": "0008253",
+    "answer": true
+  },
+  {
+    "id": "0005410",
+    "answer": true
+  },
+  {
+    "id": "0000566",
+    "answer": true
+  },
+  {
+    "id": "0005500",
+    "answer": true
+  },
+  {
+    "id": "0005447",
+    "answer": true
+  },
+  {
+    "id": "0005126",
+    "answer": true
+  },
+  {
+    "id": "0005286",
+    "answer": true
+  },
+  {
+    "id": "0005099",
+    "answer": true
+  },
+  {
+    "id": "0005384",
+    "answer": true
+  },
+  {
+    "id": "0005067",
+    "answer": true
+  },
+  {
+    "id": "0008489",
+    "answer": true
+  },
+  {
+    "id": "0005413",
+    "answer": true
+  },
+  {
+    "id": "0005567",
+    "answer": true
+  },
+  {
+    "id": "0001008",
+    "answer": true
+  },
+  {
+    "id": "0001242",
+    "answer": true
+  },
+  {
+    "id": "0005597",
+    "answer": true
+  },
+  {
+    "id": "0005115",
+    "answer": true
+  },
+  {
+    "id": "0005598",
+    "answer": true
+  },
+
+  {
+    "id": "0006520",
+    "answer": true
+  },
+  {
+    "id": "0006049",
+    "answer": true
+  },
+  {
+    "id": "0008868",
+    "answer": true
+  },
+  {
+    "id": "0006434",
+    "answer": true
+  },
+  {
+    "id": "0001804",
+    "answer": true
+  },
+  {
+    "id": "0001777",
+    "answer": true
+  },
+  {
+    "id": "0001696",
+    "answer": true
+  },
+  {
+    "id": "0002234",
+    "answer": true
+  },
+  {
+    "id": "0008888",
+    "answer": true
+  },
+  {
+    "id": "0006057",
+    "answer": true
+  },
+  {
+    "id": "0001725",
+    "answer": true
+  },
+  {
+    "id": "0006218",
+    "answer": true
+  },
+  {
+    "id": "0001604",
+    "answer": true
+  },
+  {
+    "id": "0001691",
+    "answer": true
+  },
+  {
+    "id": "0006059",
+    "answer": true
+  },
+  {
+    "id": "0001562",
+    "answer": true
+  },
+  {
+    "id": "0001745",
+    "answer": true
+  },
+  {
+    "id": "0001768",
+    "answer": true
+  },
+  {
+    "id": "0001518",
+    "answer": true
+  },
+  {
+    "id": "0006234",
+    "answer": true
+  },
+  {
+    "id": "0001470",
+    "answer": true
+  },
+  {
+    "id": "0008937",
+    "answer": true
+  },
+  {
+    "id": "0001650",
+    "answer": true
+  },
+  {
+    "id": "0002190",
+    "answer": true
+  },
+  {
+    "id": "0001568",
+    "answer": true
+  },
+  {
+    "id": "0002124",
+    "answer": true
+  },
+  {
+    "id": "0006283",
+    "answer": true
+  },
+  {
+    "id": "0001985",
+    "answer": true
+  },
+  {
+    "id": "0001511",
+    "answer": true
+  },
+  {
+    "id": "0006560",
+    "answer": true
+  },
+  {
+    "id": "0000234",
+    "answer": true
+  },
+  {
+    "id": "0001675",
+    "answer": true
+  },
+  {
+    "id": "0001507",
+    "answer": true
+  },
+  {
+    "id": "0001743",
+    "answer": true
+  },
+  {
+    "id": "0001542",
+    "answer": true
+  },
+  {
+    "id": "0006390",
+    "answer": true
+  },
+  {
+    "id": "0000197",
+    "answer": true
+  },
+  {
+    "id": "0008874",
+    "answer": true
+  },
+  {
+    "id": "0000231",
+    "answer": true
+  },
+  {
+    "id": "0006541",
+    "answer": true
+  },
+  {
+    "id": "0000243",
+    "answer": true
+  },
+  {
+    "id": "0001488",
+    "answer": true
+  },
+  {
+    "id": "0001824",
+    "answer": true
+  },
+  {
+    "id": "0002270",
+    "answer": true
+  },
+  {
+    "id": "0000002",
+    "answer": true
+  },
+  {
+    "id": "0001536",
+    "answer": true
+  },
+  {
+    "id": "0002267",
+    "answer": true
+  },
+  {
+    "id": "0008787",
+    "answer": true
+  },
+  {
+    "id": "0002332",
+    "answer": true
+  },
+  {
+    "id": "0001783",
+    "answer": true
+  },
+  {
+    "id": "0001901",
+    "answer": true
+  },
+  {
+    "id": "0001563",
+    "answer": true
+  },
+  {
+    "id": "0001949",
+    "answer": true
+  },
+  {
+    "id": "0002032",
+    "answer": true
+  },
+  {
+    "id": "0001845",
+    "answer": true
+  },
+  {
+    "id": "0000294",
+    "answer": true
+  },
+  {
+    "id": "0001641",
+    "answer": true
+  },
+  {
+    "id": "0000287",
+    "answer": true
+  },
+  {
+    "id": "0001666",
+    "answer": true
+  },
+  {
+    "id": "0000253",
+    "answer": true
+  },
+
+  {
+    "id": "0003953",
+    "answer": true
+  },
+  {
+    "id": "0004461",
+    "answer": true
+  },
+  {
+    "id": "0004249",
+    "answer": true
+  },
+  {
+    "id": "0000459",
+    "answer": true
+  },
+  {
+    "id": "0003901",
+    "answer": true
+  },
+  {
+    "id": "0003771",
+    "answer": true
+  },
+  {
+    "id": "0006878",
+    "answer": true
+  },
+  {
+    "id": "0003483",
+    "answer": true
+  },
+  {
+    "id": "0006801",
+    "answer": true
+  },
+  {
+    "id": "0001020",
+    "answer": true
+  },
+  {
+    "id": "0000365",
+    "answer": true
+  },
+  {
+    "id": "0003661",
+    "answer": true
+  },
+  {
+    "id": "0007817",
+    "answer": true
+  },
+  {
+    "id": "0003855",
+    "answer": true
+  },
+  {
+    "id": "0007710",
+    "answer": true
+  },
+  {
+    "id": "0006757",
+    "answer": true
+  },
+  {
+    "id": "0000042",
+    "answer": true
+  },
+  {
+    "id": "0007791",
+    "answer": true
+  },
+  {
+    "id": "0001062",
+    "answer": true
+  },
+  {
+    "id": "0004206",
+    "answer": true
+  },
+  {
+    "id": "0001039",
+    "answer": true
+  },
+  {
+    "id": "0003684",
+    "answer": true
+  },
+  {
+    "id": "0006670",
+    "answer": true
+  },
+  {
+    "id": "0006862",
+    "answer": true
+  },
+  {
+    "id": "0003581",
+    "answer": true
+  },
+  {
+    "id": "0007822",
+    "answer": true
+  },
+  {
+    "id": "0004210",
+    "answer": true
+  },
+  {
+    "id": "0001106",
+    "answer": true
+  },
+  {
+    "id": "0007959",
+    "answer": true
+  },
+  {
+    "id": "0006926",
+    "answer": true
+  },
+  {
+    "id": "0007291",
+    "answer": true
+  },
+  {
+    "id": "0000339",
+    "answer": true
+  },
+  {
+    "id": "0007610",
+    "answer": true
+  },
+  {
+    "id": "0003608",
+    "answer": true
+  },
+  {
+    "id": "0003597",
+    "answer": true
+  },
+  {
+    "id": "0004264",
+    "answer": true
+  },
+  {
+    "id": "0004266",
+    "answer": true
+  },
+  {
+    "id": "0007771",
+    "answer": true
+  },
+  {
+    "id": "0004429",
+    "answer": true
+  },
+  {
+    "id": "0003544",
+    "answer": true
+  },
+  {
+    "id": "0002983",
+    "answer": false
+  },
+  {
+    "id": "0009475",
+    "answer": false
+  },
+  {
+    "id": "0009895",
+    "answer": false
+  },
+  {
+    "id": "0008987",
+    "answer": false
+  },
+  {
+    "id": "0008704",
+    "answer": false
+  },
+  {
+    "id": "0008156",
+    "answer": false
+  },
+  {
+    "id": "0009618",
+    "answer": false
+  },
+  {
+    "id": "0005732",
+    "answer": false
+  },
+  {
+    "id": "0000974",
+    "answer": false
+  },
+  {
+    "id": "0009134",
+    "answer": false
+  },
+  {
+    "id": "0002541",
+    "answer": false
+  },
+  {
+    "id": "0008740",
+    "answer": false
+  },
+  {
+    "id": "0000822",
+    "answer": false
+  },
+  {
+    "id": "0000912",
+    "answer": false
+  },
+  {
+    "id": "0008662",
+    "answer": false
+  },
+  {
+    "id": "0009248",
+    "answer": false
+  },
+  {
+    "id": "0005995",
+    "answer": false
+  },
+  {
+    "id": "0003183",
+    "answer": false
+  },
+  {
+    "id": "0005871",
+    "answer": false
+  },
+  {
+    "id": "0008175",
+    "answer": false
+  },
+  {
+    "id": "0009627",
+    "answer": false
+  },
+  {
+    "id": "0000857",
+    "answer": false
+  },
+  {
+    "id": "0002608",
+    "answer": false
+  },
+  {
+    "id": "0008598",
+    "answer": false
+  },
+  {
+    "id": "0005860",
+    "answer": false
+  },
+  {
+    "id": "0009540",
+    "answer": false
+  },
+  {
+    "id": "0008101",
+    "answer": false
+  },
+  {
+    "id": "0003037",
+    "answer": false
+  },
+  {
+    "id": "0009891",
+    "answer": false
+  },
+  {
+    "id": "0000885",
+    "answer": false
+  },
+  {
+    "id": "0003243",
+    "answer": false
+  },
+  {
+    "id": "0009191",
+    "answer": false
+  },
+  {
+    "id": "0002615",
+    "answer": false
+  },
+  {
+    "id": "0002978",
+    "answer": false
+  },
+  {
+    "id": "0008685",
+    "answer": false
+  },
+  {
+    "id": "0009764",
+    "answer": false
+  },
+  {
+    "id": "0009048",
+    "answer": false
+  },
+  {
+    "id": "0000916",
+    "answer": false
+  },
+  {
+    "id": "0009108",
+    "answer": false
+  },
+  {
+    "id": "0008732",
+    "answer": false
+  },
+  {
+    "id": "0003194",
+    "answer": false
+  },
+  {
+    "id": "0008086",
+    "answer": false
+  },
+  {
+    "id": "0005863",
+    "answer": false
+  },
+  {
+    "id": "0009398",
+    "answer": false
+  },
+  {
+    "id": "0009876",
+    "answer": false
+  },
+  {
+    "id": "0009603",
+    "answer": false
+  },
+  {
+    "id": "0009005",
+    "answer": false
+  },
+  {
+    "id": "0008105",
+    "answer": false
+  },
+  {
+    "id": "0005941",
+    "answer": false
+  },
+  {
+    "id": "0009702",
+    "answer": false
+  },
+  {
+    "id": "0000713",
+    "answer": false
+  },
+  {
+    "id": "0005797",
+    "answer": false
+  },
+  {
+    "id": "0009304",
+    "answer": false
+  },
+  {
+    "id": "0009553",
+    "answer": false
+  },
+  {
+    "id": "0002677",
+    "answer": false
+  },
+  {
+    "id": "0009128",
+    "answer": false
+  },
+  {
+    "id": "0008510",
+    "answer": false
+  },
+  {
+    "id": "0003117",
+    "answer": false
+  },
+  {
+    "id": "0008497",
+    "answer": false
+  },
+  {
+    "id": "0000833",
+    "answer": false
+  },
+  {
+    "id": "0005875",
+    "answer": false
+  },
+  {
+    "id": "0008733",
+    "answer": false
+  },
+  {
+    "id": "0005805",
+    "answer": false
+  },
+  {
+    "id": "0009302",
+    "answer": false
+  },
+  {
+    "id": "0002480",
+    "answer": false
+  },
+  {
+    "id": "0005872",
+    "answer": false
+  },
+  {
+    "id": "0009864",
+    "answer": false
+  },
+  {
+    "id": "0000721",
+    "answer": false
+  },
+  {
+    "id": "0002617",
+    "answer": false
+  },
+  {
+    "id": "0009140",
+    "answer": false
+  },
+  {
+    "id": "0002440",
+    "answer": false
+  },
+  {
+    "id": "0008129",
+    "answer": false
+  },
+  {
+    "id": "0008110",
+    "answer": false
+  },
+  {
+    "id": "0008212",
+    "answer": false
+  },
+  {
+    "id": "0000946",
+    "answer": false
+  },
+  {
+    "id": "0009298",
+    "answer": false
+  },
+  {
+    "id": "0000773",
+    "answer": false
+  },
+  {
+    "id": "0003165",
+    "answer": false
+  },
+  {
+    "id": "0002555",
+    "answer": false
+  },
+  {
+    "id": "0005895",
+    "answer": false
+  },
+  {
+    "id": "0009169",
+    "answer": false
+  },
+  {
+    "id": "0000812",
+    "answer": false
+  },
+  {
+    "id": "0008150",
+    "answer": false
+  },
+  {
+    "id": "0003131",
+    "answer": false
+  },
+  {
+    "id": "0003018",
+    "answer": false
+  },
+  {
+    "id": "0009644",
+    "answer": false
+  },
+  {
+    "id": "0009215",
+    "answer": false
+  },
+  {
+    "id": "0009268",
+    "answer": false
+  },
+  {
+    "id": "0009776",
+    "answer": false
+  },
+  {
+    "id": "0000769",
+    "answer": false
+  },
+  {
+    "id": "0008093",
+    "answer": false
+  },
+  {
+    "id": "0008761",
+    "answer": false
+  },
+  {
+    "id": "0008686",
+    "answer": false
+  },
+  {
+    "id": "0009007",
+    "answer": false
+  },
+  {
+    "id": "0000865",
+    "answer": false
+  },
+  {
+    "id": "0000706",
+    "answer": false
+  },
+  {
+    "id": "0009651",
+    "answer": false
+  },
+  {
+    "id": "0008078",
+    "answer": false
+  },
+  {
+    "id": "0008771",
+    "answer": false
+  },
+  {
+    "id": "0002864",
+    "answer": false
+  },
+  {
+    "id": "0008159",
+    "answer": false
+  },
+  {
+    "id": "0008509",
+    "answer": false
+  },
+  {
+    "id": "0009107",
+    "answer": false
+  },
+  {
+    "id": "0008533",
+    "answer": false
+  },
+  {
+    "id": "0002900",
+    "answer": false
+  },
+  {
+    "id": "0002729",
+    "answer": false
+  },
+  {
+    "id": "0005749",
+    "answer": false
+  },
+  {
+    "id": "0009289",
+    "answer": false
+  },
+  {
+    "id": "0005845",
+    "answer": false
+  },
+  {
+    "id": "0009897",
+    "answer": false
+  },
+  {
+    "id": "0009055",
+    "answer": false
+  },
+  {
+    "id": "0005807",
+    "answer": false
+  },
+  {
+    "id": "0008994",
+    "answer": false
+  },
+  {
+    "id": "0000861",
+    "answer": false
+  },
+  {
+    "id": "0009888",
+    "answer": false
+  },
+  {
+    "id": "0008952",
+    "answer": false
+  },
+  {
+    "id": "0003077",
+    "answer": false
+  },
+  {
+    "id": "0000840",
+    "answer": false
+  },
+  {
+    "id": "0008765",
+    "answer": false
+  },
+  {
+    "id": "0005773",
+    "answer": false
+  },
+  {
+    "id": "0002944",
+    "answer": false
+  },
+  {
+    "id": "0008695",
+    "answer": false
+  },
+  {
+    "id": "0009670",
+    "answer": false
+  },
+  {
+    "id": "0008209",
+    "answer": false
+  },
+  {
+    "id": "0001368",
+    "answer": false
+  },
+  {
+    "id": "0009133",
+    "answer": false
+  },
+  {
+    "id": "0005886",
+    "answer": false
+  },
+  {
+    "id": "0002744",
+    "answer": false
+  },
+  {
+    "id": "0008190",
+    "answer": false
+  },
+  {
+    "id": "0002822",
+    "answer": false
+  },
+  {
+    "id": "0008647",
+    "answer": false
+  },
+  {
+    "id": "0002816",
+    "answer": false
+  },
+  {
+    "id": "0008532",
+    "answer": false
+  },
+  {
+    "id": "0000819",
+    "answer": false
+  },
+  {
+    "id": "0009390",
+    "answer": false
+  },
+  {
+    "id": "0002719",
+    "answer": false
+  },
+  {
+    "id": "0009550",
+    "answer": false
+  },
+  {
+    "id": "0008977",
+    "answer": false
+  },
+  {
+    "id": "0005882",
+    "answer": false
+  },
+  {
+    "id": "0009286",
+    "answer": false
+  },
+  {
+    "id": "0005924",
+    "answer": false
+  },
+  {
+    "id": "0002813",
+    "answer": false
+  },
+  {
+    "id": "0008528",
+    "answer": false
+  },
+  {
+    "id": "0001001",
+    "answer": false
+  },
+  {
+    "id": "0009649",
+    "answer": false
+  },
+  {
+    "id": "0003255",
+    "answer": false
+  },
+  {
+    "id": "0005782",
+    "answer": false
+  },
+  {
+    "id": "0003053",
+    "answer": false
+  },
+  {
+    "id": "0009524",
+    "answer": false
+  },
+  {
+    "id": "0009287",
+    "answer": false
+  },
+  {
+    "id": "0009758",
+    "answer": false
+  },
+  {
+    "id": "0002806",
+    "answer": false
+  },
+  {
+    "id": "0009889",
+    "answer": false
+  },
+  {
+    "id": "0000796",
+    "answer": false
+  },
+  {
+    "id": "0009078",
+    "answer": false
+  },
+  {
+    "id": "0003056",
+    "answer": false
+  },
+  {
+    "id": "0009785",
+    "answer": false
+  },
+  {
+    "id": "0005984",
+    "answer": false
+  },
+  {
+    "id": "0003178",
+    "answer": false
+  },
+  {
+    "id": "0009843",
+    "answer": false
+  },
+  {
+    "id": "0009561",
+    "answer": false
+  },
+  {
+    "id": "0009659",
+    "answer": false
+  },
+  {
+    "id": "0009549",
+    "answer": false
+  },
+  {
+    "id": "0002447",
+    "answer": false
+  },
+  {
+    "id": "0009433",
+    "answer": false
+  },
+  {
+    "id": "0002858",
+    "answer": false
+  },
+  {
+    "id": "0008671",
+    "answer": false
+  },
+  {
+    "id": "0008111",
+    "answer": false
+  },
+  {
+    "id": "0002537",
+    "answer": false
+  },
+  {
+    "id": "0003005",
+    "answer": false
+  },
+  {
+    "id": "0005851",
+    "answer": false
+  },
+  {
+    "id": "0002511",
+    "answer": false
+  },
+  {
+    "id": "0002613",
+    "answer": false
+  },
+  {
+    "id": "0000911",
+    "answer": false
+  },
+  {
+    "id": "0009421",
+    "answer": false
+  },
+  {
+    "id": "0002575",
+    "answer": false
+  },
+  {
+    "id": "0009781",
+    "answer": false
+  },
+  {
+    "id": "0005935",
+    "answer": false
+  },
+  {
+    "id": "0009317",
+    "answer": false
+  },
+  {
+    "id": "0009238",
+    "answer": false
+  },
+  {
+    "id": "0000688",
+    "answer": false
+  },
+  {
+    "id": "0003159",
+    "answer": false
+  },
+  {
+    "id": "0002754",
+    "answer": false
+  },
+  {
+    "id": "0000891",
+    "answer": false
+  },
+  {
+    "id": "0002750",
+    "answer": false
+  },
+  {
+    "id": "0009819",
+    "answer": false
+  },
+  {
+    "id": "0009345",
+    "answer": false
+  },
+  {
+    "id": "0008204",
+    "answer": false
+  },
+  {
+    "id": "0008180",
+    "answer": false
+  },
+  {
+    "id": "0005808",
+    "answer": false
+  },
+  {
+    "id": "0009382",
+    "answer": false
+  },
+  {
+    "id": "0000720",
+    "answer": false
+  },
+  {
+    "id": "0009497",
+    "answer": false
+  },
+  {
+    "id": "0005945",
+    "answer": false
+  },
+  {
+    "id": "0000786",
+    "answer": false
+  },
+  {
+    "id": "0002947",
+    "answer": false
+  },
+  {
+    "id": "0000785",
+    "answer": false
+  },
+  {
+    "id": "0000888",
+    "answer": false
+  },
+  {
+    "id": "0009058",
+    "answer": false
+  },
+  {
+    "id": "0000880",
+    "answer": false
+  },
+  {
+    "id": "0009136",
+    "answer": false
+  },
+  {
+    "id": "0000876",
+    "answer": false
+  },
+  {
+    "id": "0005752",
+    "answer": false
+  },
+  {
+    "id": "0003229",
+    "answer": false
+  },
+  {
+    "id": "0008714",
+    "answer": false
+  },
+  {
+    "id": "0005790",
+    "answer": false
+  },
+  {
+    "id": "0005890",
+    "answer": false
+  },
+  {
+    "id": "0009770",
+    "answer": false
+  },
+  {
+    "id": "0008758",
+    "answer": false
+  },
+  {
+    "id": "0005942",
+    "answer": false
+  },
+  {
+    "id": "0002704",
+    "answer": false
+  },
+  {
+    "id": "0008633",
+    "answer": false
+  },
+  {
+    "id": "0000871",
+    "answer": false
+  },
+  {
+    "id": "0003063",
+    "answer": false
+  },
+  {
+    "id": "0009595",
+    "answer": false
+  },
+  {
+    "id": "0000803",
+    "answer": false
+  },
+  {
+    "id": "0009825",
+    "answer": false
+  },
+  {
+    "id": "0008659",
+    "answer": false
+  },
+  {
+    "id": "0002771",
+    "answer": false
+  },
+  {
+    "id": "0009158",
+    "answer": false
+  },
+  {
+    "id": "0005868",
+    "answer": false
+  },
+  {
+    "id": "0009515",
+    "answer": false
+  },
+  {
+    "id": "0009739",
+    "answer": false
+  },
+  {
+    "id": "0005796",
+    "answer": false
+  },
+  {
+    "id": "0002869",
+    "answer": false
+  },
+  {
+    "id": "0005817",
+    "answer": false
+  },
+  {
+    "id": "0009367",
+    "answer": false
+  },
+  {
+    "id": "0008779",
+    "answer": false
+  },
+  {
+    "id": "0008602",
+    "answer": false
+  },
+  {
+    "id": "0009694",
+    "answer": false
+  },
+  {
+    "id": "0008151",
+    "answer": false
+  },
+  {
+    "id": "0002842",
+    "answer": false
+  },
+  {
+    "id": "0009032",
+    "answer": false
+  },
+  {
+    "id": "0002566",
+    "answer": false
+  },
+  {
+    "id": "0000870",
+    "answer": false
+  },
+  {
+    "id": "0000982",
+    "answer": false
+  },
+  {
+    "id": "0009077",
+    "answer": false
+  },
+  {
+    "id": "0008632",
+    "answer": false
+  },
+  {
+    "id": "0008126",
+    "answer": false
+  },
+  {
+    "id": "0000971",
+    "answer": false
+  },
+  {
+    "id": "0009593",
+    "answer": false
+  },
+  {
+    "id": "0009474",
+    "answer": false
+  },
+  {
+    "id": "0000872",
+    "answer": false
+  },
+  {
+    "id": "0005959",
+    "answer": false
+  },
+  {
+    "id": "0009751",
+    "answer": false
+  },
+  {
+    "id": "0008206",
+    "answer": false
+  },
+  {
+    "id": "0000960",
+    "answer": false
+  },
+  {
+    "id": "0008574",
+    "answer": false
+  },
+  {
+    "id": "0000716",
+    "answer": false
+  },
+  {
+    "id": "0009013",
+    "answer": false
+  },
+  {
+    "id": "0000897",
+    "answer": true
+  },
+  {
+    "id": "0009673",
+    "answer": true
+  },
+  {
+    "id": "0008106",
+    "answer": true
+  },
+  {
+    "id": "0001407",
+    "answer": true
+  },
+  {
+    "id": "0009463",
+    "answer": true
+  },
+  {
+    "id": "0000952",
+    "answer": false
+  },
+  {
+    "id": "0009500",
+    "answer": false
+  },
+  {
+    "id": "0005278",
+    "answer": false
+  },
+  {
+    "id": "0004915",
+    "answer": false
+  },
+  {
+    "id": "0008421",
+    "answer": false
+  },
+  {
+    "id": "0008486",
+    "answer": false
+  },
+  {
+    "id": "0005063",
+    "answer": false
+  },
+  {
+    "id": "0005018",
+    "answer": false
+  },
+  {
+    "id": "0001284",
+    "answer": false
+  },
+  {
+    "id": "0008451",
+    "answer": false
+  },
+  {
+    "id": "0000565",
+    "answer": false
+  },
+  {
+    "id": "0008261",
+    "answer": false
+  },
+  {
+    "id": "0004995",
+    "answer": false
+  },
+  {
+    "id": "0005105",
+    "answer": false
+  },
+  {
+    "id": "0004986",
+    "answer": false
+  },
+  {
+    "id": "0008393",
+    "answer": false
+  },
+  {
+    "id": "0001286",
+    "answer": false
+  },
+  {
+    "id": "0008465",
+    "answer": false
+  },
+  {
+    "id": "0000148",
+    "answer": false
+  },
+  {
+    "id": "0005305",
+    "answer": false
+  },
+  {
+    "id": "0005439",
+    "answer": false
+  },
+  {
+    "id": "0005620",
+    "answer": false
+  },
+  {
+    "id": "0005480",
+    "answer": false
+  },
+  {
+    "id": "0001245",
+    "answer": false
+  },
+  {
+    "id": "0008488",
+    "answer": false
+  },
+  {
+    "id": "0005454",
+    "answer": false
+  },
+  {
+    "id": "0001238",
+    "answer": false
+  },
+  {
+    "id": "0005182",
+    "answer": false
+  },
+  {
+    "id": "0005169",
+    "answer": false
+  },
+  {
+    "id": "0005137",
+    "answer": false
+  },
+  {
+    "id": "0005250",
+    "answer": false
+  },
+  {
+    "id": "0005208",
+    "answer": false
+  },
+  {
+    "id": "0005521",
+    "answer": false
+  },
+  {
+    "id": "0005478",
+    "answer": false
+  },
+  {
+    "id": "0008386",
+    "answer": false
+  },
+  {
+    "id": "0004870",
+    "answer": false
+  },
+  {
+    "id": "0005360",
+    "answer": false
+  },
+  {
+    "id": "0005495",
+    "answer": false
+  },
+  {
+    "id": "0005323",
+    "answer": false
+  },
+  {
+    "id": "0005216",
+    "answer": false
+  },
+  {
+    "id": "0008287",
+    "answer": false
+  },
+  {
+    "id": "0005135",
+    "answer": false
+  },
+  {
+    "id": "0001299",
+    "answer": false
+  },
+  {
+    "id": "0008327",
+    "answer": false
+  },
+  {
+    "id": "0000581",
+    "answer": false
+  },
+  {
+    "id": "0008400",
+    "answer": false
+  },
+  {
+    "id": "0005002",
+    "answer": false
+  },
+  {
+    "id": "0005098",
+    "answer": false
+  },
+  {
+    "id": "0005363",
+    "answer": false
+  },
+  {
+    "id": "0001254",
+    "answer": false
+  },
+  {
+    "id": "0008291",
+    "answer": false
+  },
+  {
+    "id": "0008257",
+    "answer": false
+  },
+  {
+    "id": "0004879",
+    "answer": false
+  },
+  {
+    "id": "0004945",
+    "answer": false
+  },
+  {
+    "id": "0000671",
+    "answer": false
+  },
+  {
+    "id": "0001319",
+    "answer": false
+  },
+  {
+    "id": "0008382",
+    "answer": false
+  },
+  {
+    "id": "0005309",
+    "answer": false
+  },
+  {
+    "id": "0005477",
+    "answer": false
+  },
+  {
+    "id": "0001282",
+    "answer": false
+  },
+  {
+    "id": "0004887",
+    "answer": false
+  },
+  {
+    "id": "0005668",
+    "answer": false
+  },
+  {
+    "id": "0000594",
+    "answer": true
+  },
+
+  {
+    "id": "0005393",
+    "answer": true
+  },
+  {
+    "id": "0000127",
+    "answer": true
+  },
+  {
+    "id": "0004959",
+    "answer": true
+  },
+  {
+    "id": "0000138",
+    "answer": true
+  },
+  {
+    "id": "0005418",
+    "answer": true
+  },
+  {
+    "id": "0005092",
+    "answer": true
+  },
+  {
+    "id": "0005446",
+    "answer": false
+  },
+  {
+    "id": "0004972",
+    "answer": false
+  },
+  {
+    "id": "0005225",
+    "answer": false
+  },
+  {
+    "id": "0005338",
+    "answer": false
+  },
+  {
+    "id": "0005483",
+    "answer": false
+  },
+  {
+    "id": "0004892",
+    "answer": false
+  },
+  {
+    "id": "0008335",
+    "answer": false
+  },
+  {
+    "id": "0005327",
+    "answer": false
+  },
+  {
+    "id": "0008348",
+    "answer": false
+  },
+  {
+    "id": "0005469",
+    "answer": false
+  },
+  {
+    "id": "0005463",
+    "answer": false
+  },
+  {
+    "id": "0008269",
+    "answer": false
+  },
+  {
+    "id": "0000583",
+    "answer": false
+  },
+  {
+    "id": "0008494",
+    "answer": false
+  },
+  {
+    "id": "0008304",
+    "answer": false
+  },
+  {
+    "id": "0004886",
+    "answer": false
+  },
+  {
+    "id": "0008230",
+    "answer": false
+  },
+  {
+    "id": "0005257",
+    "answer": false
+  },
+  {
+    "id": "0000569",
+    "answer": false
+  },
+  {
+    "id": "0000615",
+    "answer": false
+  },
+  {
+    "id": "0008314",
+    "answer": false
+  },
+  {
+    "id": "0005177",
+    "answer": false
+  },
+  {
+    "id": "0005679",
+    "answer": false
+  },
+  {
+    "id": "0001262",
+    "answer": false
+  },
+  {
+    "id": "0005430",
+    "answer": false
+  },
+  {
+    "id": "0005487",
+    "answer": false
+  },
+  {
+    "id": "0005471",
+    "answer": false
+  },
+  {
+    "id": "0005284",
+    "answer": false
+  },
+  {
+    "id": "0008242",
+    "answer": false
+  },
+  {
+    "id": "0001226",
+    "answer": false
+  },
+  {
+    "id": "0000618",
+    "answer": false
+  },
+  {
+    "id": "0004904",
+    "answer": false
+  },
+  {
+    "id": "0008490",
+    "answer": false
+  },
+  {
+    "id": "0008249",
+    "answer": false
+  },
+  {
+    "id": "0005470",
+    "answer": false
+  },
+  {
+    "id": "0000608",
+    "answer": false
+  },
+  {
+    "id": "0005112",
+    "answer": false
+  },
+  {
+    "id": "0005308",
+    "answer": false
+  },
+  {
+    "id": "0005350",
+    "answer": false
+  },
+  {
+    "id": "0000646",
+    "answer": false
+  },
+  {
+    "id": "0005122",
+    "answer": false
+  },
+  {
+    "id": "0008396",
+    "answer": false
+  },
+  {
+    "id": "0008320",
+    "answer": false
+  },
+  {
+    "id": "0000653",
+    "answer": false
+  },
+  {
+    "id": "0005333",
+    "answer": false
+  },
+  {
+    "id": "0000613",
+    "answer": false
+  },
+  {
+    "id": "0005586",
+    "answer": false
+  },
+  {
+    "id": "0008481",
+    "answer": false
+  },
+  {
+    "id": "0005465",
+    "answer": false
+  },
+  {
+    "id": "0005054",
+    "answer": false
+  },
+  {
+    "id": "0004973",
+    "answer": false
+  },
+  {
+    "id": "0005280",
+    "answer": false
+  },
+  {
+    "id": "0008345",
+    "answer": false
+  },
+  {
+    "id": "0000649",
+    "answer": false
+  },
+  {
+    "id": "0005475",
+    "answer": false
+  },
+  {
+    "id": "0005217",
+    "answer": false
+  },
+  {
+    "id": "0008343",
+    "answer": false
+  },
+  {
+    "id": "0008405",
+    "answer": false
+  },
+  {
+    "id": "0008381",
+    "answer": false
+  },
+  {
+    "id": "0005662",
+    "answer": false
+  },
+  {
+    "id": "0001307",
+    "answer": false
+  },
+  {
+    "id": "0004906",
+    "answer": false
+  },
+  {
+    "id": "0004944",
+    "answer": false
+  },
+  {
+    "id": "0008407",
+    "answer": false
+  },
+  {
+    "id": "0005517",
+    "answer": false
+  },
+  {
+    "id": "0000606",
+    "answer": false
+  },
+  {
+    "id": "0005706",
+    "answer": false
+  },
+  {
+    "id": "0005419",
+    "answer": false
+  },
+  {
+    "id": "0005344",
+    "answer": false
+  },
+  {
+    "id": "0005200",
+    "answer": false
+  },
+  {
+    "id": "0000589",
+    "answer": false
+  },
+  {
+    "id": "0004878",
+    "answer": false
+  },
+  {
+    "id": "0008461",
+    "answer": false
+  },
+  {
+    "id": "0000568",
+    "answer": false
+  },
+  {
+    "id": "0000681",
+    "answer": false
+  },
+  {
+    "id": "0005505",
+    "answer": false
+  },
+  {
+    "id": "0004975",
+    "answer": false
+  },
+  {
+    "id": "0000580",
+    "answer": false
+  },
+  {
+    "id": "0008450",
+    "answer": false
+  },
+
+  {
+    "id": "0007574",
+    "answer": false
+  },
+  {
+    "id": "0003770",
+    "answer": false
+  },
+  {
+    "id": "0004098",
+    "answer": false
+  },
+  {
+    "id": "0004344",
+    "answer": false
+  },
+  {
+    "id": "0007534",
+    "answer": false
+  },
+  {
+    "id": "0006707",
+    "answer": false
+  },
+  {
+    "id": "0003942",
+    "answer": false
+  },
+  {
+    "id": "0000467",
+    "answer": false
+  },
+  {
+    "id": "0007045",
+    "answer": false
+  },
+  {
+    "id": "0007830",
+    "answer": false
+  },
+  {
+    "id": "0004401",
+    "answer": false
+  },
+  {
+    "id": "0001093",
+    "answer": false
+  },
+  {
+    "id": "0000003",
+    "answer": false
+  },
+  {
+    "id": "0001017",
+    "answer": false
+  },
+  {
+    "id": "0004173",
+    "answer": false
+  },
+  {
+    "id": "0007668",
+    "answer": false
+  },
+  {
+    "id": "0003726",
+    "answer": false
+  },
+  {
+    "id": "0006660",
+    "answer": false
+  },
+  {
+    "id": "0007966",
+    "answer": false
+  },
+  {
+    "id": "0007982",
+    "answer": false
+  },
+  {
+    "id": "0003474",
+    "answer": false
+  },
+  {
+    "id": "0007039",
+    "answer": false
+  },
+  {
+    "id": "0004420",
+    "answer": false
+  },
+  {
+    "id": "0007365",
+    "answer": false
+  },
+  {
+    "id": "0007147",
+    "answer": false
+  },
+  {
+    "id": "0004203",
+    "answer": false
+  },
+  {
+    "id": "0007591",
+    "answer": false
+  },
+  {
+    "id": "0003837",
+    "answer": false
+  },
+  {
+    "id": "0001065",
+    "answer": false
+  },
+  {
+    "id": "0000504",
+    "answer": false
+  },
+  {
+    "id": "0007542",
+    "answer": false
+  },
+  {
+    "id": "0000059",
+    "answer": false
+  },
+  {
+    "id": "0007450",
+    "answer": false
+  },
+  {
+    "id": "0000050",
+    "answer": false
+  },
+  {
+    "id": "0007602",
+    "answer": false
+  },
+  {
+    "id": "0007499",
+    "answer": false
+  },
+  {
+    "id": "0006687",
+    "answer": false
+  },
+  {
+    "id": "0004640",
+    "answer": false
+  },
+  {
+    "id": "0003750",
+    "answer": false
+  },
+  {
+    "id": "0007645",
+    "answer": false
+  },
+  {
+    "id": "0006619",
+    "answer": false
+  },
+  {
+    "id": "0007889",
+    "answer": false
+  },
+  {
+    "id": "0007405",
+    "answer": false
+  },
+  {
+    "id": "0004105",
+    "answer": false
+  },
+  {
+    "id": "0007748",
+    "answer": false
+  },
+  {
+    "id": "0007838",
+    "answer": false
+  },
+  {
+    "id": "0007487",
+    "answer": false
+  },
+  {
+    "id": "0007548",
+    "answer": false
+  },
+  {
+    "id": "0001089",
+    "answer": false
+  },
+  {
+    "id": "0004451",
+    "answer": false
+  },
+  {
+    "id": "0007281",
+    "answer": false
+  },
+  {
+    "id": "0003629",
+    "answer": false
+  },
+  {
+    "id": "0006910",
+    "answer": false
+  },
+  {
+    "id": "0003973",
+    "answer": false
+  },
+  {
+    "id": "0007972",
+    "answer": false
+  },
+  {
+    "id": "0000049",
+    "answer": false
+  },
+  {
+    "id": "0003677",
+    "answer": false
+  },
+  {
+    "id": "0004194",
+    "answer": false
+  },
+  {
+    "id": "0003738",
+    "answer": false
+  },
+  {
+    "id": "0006731",
+    "answer": false
+  },
+  {
+    "id": "0007363",
+    "answer": false
+  },
+  {
+    "id": "0007597",
+    "answer": false
+  },
+  {
+    "id": "0000481",
+    "answer": false
+  },
+  {
+    "id": "0000527",
+    "answer": false
+  },
+  {
+    "id": "0006601",
+    "answer": false
+  },
+  {
+    "id": "0007217",
+    "answer": false
+  },
+  {
+    "id": "0007609",
+    "answer": false
+  },
+  {
+    "id": "0003610",
+    "answer": false
+  },
+  {
+    "id": "0006962",
+    "answer": false
+  },
+  {
+    "id": "0000497",
+    "answer": false
+  },
+  {
+    "id": "0007586",
+    "answer": false
+  },
+  {
+    "id": "0007087",
+    "answer": false
+  },
+  {
+    "id": "0000555",
+    "answer": false
+  },
+  {
+    "id": "0004219",
+    "answer": false
+  },
+  {
+    "id": "0007480",
+    "answer": false
+  },
+  {
+    "id": "0007304",
+    "answer": false
+  },
+  {
+    "id": "0006761",
+    "answer": false
+  },
+  {
+    "id": "0007559",
+    "answer": false
+  },
+  {
+    "id": "0006641",
+    "answer": false
+  },
+  {
+    "id": "0001083",
+    "answer": false
+  },
+  {
+    "id": "0000461",
+    "answer": false
+  },
+  {
+    "id": "0000052",
+    "answer": false
+  },
+  {
+    "id": "0007162",
+    "answer": false
+  },
+  {
+    "id": "0007916",
+    "answer": false
+  },
+  {
+    "id": "0007218",
+    "answer": false
+  },
+  {
+    "id": "0004398",
+    "answer": false
+  },
+  {
+    "id": "0007965",
+    "answer": false
+  },
+  {
+    "id": "0007100",
+    "answer": false
+  },
+  {
+    "id": "0003475",
+    "answer": false
+  },
+  {
+    "id": "0006585",
+    "answer": false
+  },
+  {
+    "id": "0000020",
+    "answer": false
+  },
+  {
+    "id": "0003703",
+    "answer": false
+  },
+  {
+    "id": "0003956",
+    "answer": false
+  },
+  {
+    "id": "0004477",
+    "answer": false
+  },
+  {
+    "id": "0007313",
+    "answer": false
+  },
+  {
+    "id": "0004685",
+    "answer": false
+  },
+  {
+    "id": "0006779",
+    "answer": false
+  },
+  {
+    "id": "0007676",
+    "answer": false
+  },
+  {
+    "id": "0004522",
+    "answer": false
+  },
+  {
+    "id": "0007090",
+    "answer": false
+  },
+  {
+    "id": "0006899",
+    "answer": false
+  },
+  {
+    "id": "0001041",
+    "answer": false
+  },
+  {
+    "id": "0006999",
+    "answer": false
+  },
+  {
+    "id": "0007881",
+    "answer": false
+  },
+  {
+    "id": "0003511",
+    "answer": false
+  },
+  {
+    "id": "0007593",
+    "answer": false
+  },
+  {
+    "id": "0007875",
+    "answer": false
+  },
+  {
+    "id": "0003574",
+    "answer": false
+  },
+  {
+    "id": "0004638",
+    "answer": false
+  },
+  {
+    "id": "0006889",
+    "answer": false
+  },
+  {
+    "id": "0007479",
+    "answer": false
+  },
+  {
+    "id": "0007358",
+    "answer": false
+  },
+  {
+    "id": "0006857",
+    "answer": false
+  },
+  {
+    "id": "0007092",
+    "answer": false
+  },
+  {
+    "id": "0004375",
+    "answer": false
+  },
+  {
+    "id": "0003895",
+    "answer": false
+  },
+  {
+    "id": "0004351",
+    "answer": false
+  },
+  {
+    "id": "0007020",
+    "answer": false
+  },
+  {
+    "id": "0003735",
+    "answer": false
+  },
+  {
+    "id": "0006896",
+    "answer": false
+  },
+  {
+    "id": "0007193",
+    "answer": false
+  },
+  {
+    "id": "0007814",
+    "answer": false
+  },
+  {
+    "id": "0000363",
+    "answer": false
+  },
+  {
+    "id": "0003802",
+    "answer": false
+  },
+  {
+    "id": "0007999",
+    "answer": false
+  },
+  {
+    "id": "0000541",
+    "answer": false
+  },
+  {
+    "id": "0004468",
+    "answer": false
+  },
+  {
+    "id": "0007198",
+    "answer": false
+  },
+  {
+    "id": "0007259",
+    "answer": false
+  },
+  {
+    "id": "0003716",
+    "answer": false
+  },
+  {
+    "id": "0007103",
+    "answer": false
+  },
+  {
+    "id": "0006971",
+    "answer": false
+  },
+  {
+    "id": "0004347",
+    "answer": false
+  },
+  {
+    "id": "0007176",
+    "answer": false
+  },
+  {
+    "id": "0007009",
+    "answer": false
+  },
+  {
+    "id": "0004017",
+    "answer": false
+  },
+  {
+    "id": "0007135",
+    "answer": false
+  },
+  {
+    "id": "0004505",
+    "answer": false
+  },
+  {
+    "id": "0004547",
+    "answer": false
+  },
+  {
+    "id": "0007594",
+    "answer": false
+  },
+  {
+    "id": "0000421",
+    "answer": false
+  },
+  {
+    "id": "0006737",
+    "answer": false
+  },
+  {
+    "id": "0007337",
+    "answer": false
+  },
+  {
+    "id": "0001078",
+    "answer": false
+  },
+  {
+    "id": "0007454",
+    "answer": false
+  },
+  {
+    "id": "0004121",
+    "answer": false
+  },
+  {
+    "id": "0000054",
+    "answer": false
+  },
+  {
+    "id": "0007660",
+    "answer": false
+  },
+  {
+    "id": "0007273",
+    "answer": false
+  },
+  {
+    "id": "0006853",
+    "answer": false
+  },
+  {
+    "id": "0007383",
+    "answer": false
+  },
+  {
+    "id": "0007659",
+    "answer": false
+  },
+  {
+    "id": "0003873",
+    "answer": false
+  },
+  {
+    "id": "0007871",
+    "answer": false
+  },
+  {
+    "id": "0007650",
+    "answer": false
+  },
+  {
+    "id": "0006626",
+    "answer": false
+  },
+  {
+    "id": "0003592",
+    "answer": false
+  },
+  {
+    "id": "0003724",
+    "answer": false
+  },
+  {
+    "id": "0003945",
+    "answer": false
+  },
+  {
+    "id": "0000396",
+    "answer": false
+  },
+  {
+    "id": "0006907",
+    "answer": false
+  },
+  {
+    "id": "0003722",
+    "answer": false
+  },
+  {
+    "id": "0003902",
+    "answer": false
+  },
+  {
+    "id": "0003561",
+    "answer": false
+  },
+  {
+    "id": "0003768",
+    "answer": false
+  },
+  {
+    "id": "0004654",
+    "answer": false
+  },
+  {
+    "id": "0007781",
+    "answer": false
+  },
+  {
+    "id": "0007556",
+    "answer": false
+  },
+  {
+    "id": "0004191",
+    "answer": false
+  },
+  {
+    "id": "0007631",
+    "answer": false
+  },
+  {
+    "id": "0004245",
+    "answer": false
+  },
+  {
+    "id": "0006664",
+    "answer": false
+  },
+  {
+    "id": "0006688",
+    "answer": false
+  },
+  {
+    "id": "0003531",
+    "answer": false
+  },
+  {
+    "id": "0007251",
+    "answer": false
+  },
+  {
+    "id": "0001048",
+    "answer": false
+  },
+  {
+    "id": "0007913",
+    "answer": false
+  },
+  {
+    "id": "0004416",
+    "answer": false
+  },
+  {
+    "id": "0004359",
+    "answer": false
+  },
+  {
+    "id": "0006841",
+    "answer": false
+  },
+  {
+    "id": "0003577",
+    "answer": false
+  },
+  {
+    "id": "0004295",
+    "answer": false
+  },
+  {
+    "id": "0008060",
+    "answer": false
+  },
+  {
+    "id": "0004452",
+    "answer": false
+  },
+  {
+    "id": "0006648",
+    "answer": false
+  },
+  {
+    "id": "0006646",
+    "answer": false
+  },
+  {
+    "id": "0007261",
+    "answer": false
+  },
+  {
+    "id": "0003915",
+    "answer": false
+  },
+  {
+    "id": "0000046",
+    "answer": false
+  },
+  {
+    "id": "0007733",
+    "answer": false
+  },
+  {
+    "id": "0003514",
+    "answer": false
+  },
+  {
+    "id": "0007174",
+    "answer": false
+  },
+  {
+    "id": "0003776",
+    "answer": false
+  },
+  {
+    "id": "0001015",
+    "answer": false
+  },
+  {
+    "id": "0007267",
+    "answer": false
+  },
+  {
+    "id": "0003542",
+    "answer": false
+  },
+  {
+    "id": "0007954",
+    "answer": false
+  },
+  {
+    "id": "0006624",
+    "answer": false
+  },
+  {
+    "id": "0004485",
+    "answer": false
+  },
+  {
+    "id": "0004496",
+    "answer": false
+  },
+  {
+    "id": "0003733",
+    "answer": false
+  },
+  {
+    "id": "0000454",
+    "answer": false
+  },
+  {
+    "id": "0003997",
+    "answer": false
+  },
+  {
+    "id": "0007190",
+    "answer": false
+  },
+  {
+    "id": "0007498",
+    "answer": false
+  },
+  {
+    "id": "0006868",
+    "answer": false
+  },
+  {
+    "id": "0003630",
+    "answer": false
+  },
+  {
+    "id": "0003668",
+    "answer": false
+  },
+  {
+    "id": "0006916",
+    "answer": false
+  },
+  {
+    "id": "0006829",
+    "answer": false
+  },
+  {
+    "id": "0000039",
+    "answer": false
+  },
+  {
+    "id": "0000038",
+    "answer": false
+  },
+  {
+    "id": "0007050",
+    "answer": false
+  },
+  {
+    "id": "0006621",
+    "answer": false
+  },
+  {
+    "id": "0004028",
+    "answer": false
+  },
+  {
+    "id": "0001055",
+    "answer": false
+  },
+  {
+    "id": "0007185",
+    "answer": false
+  },
+  {
+    "id": "0000500",
+    "answer": false
+  },
+  {
+    "id": "0000037",
+    "answer": false
+  },
+  {
+    "id": "0007143",
+    "answer": false
+  },
+  {
+    "id": "0004556",
+    "answer": false
+  },
+  {
+    "id": "0003903",
+    "answer": false
+  },
+  {
+    "id": "0007670",
+    "answer": false
+  },
+  {
+    "id": "0004356",
+    "answer": false
+  },
+  {
+    "id": "0000328",
+    "answer": false
+  },
+  {
+    "id": "0007482",
+    "answer": false
+  },
+
+  {
+    "id": "0006458",
+    "answer": false
+  },
+  {
+    "id": "0001548",
+    "answer": false
+  },
+  {
+    "id": "0001836",
+    "answer": false
+  },
+  {
+    "id": "0002131",
+    "answer": false
+  },
+  {
+    "id": "0006259",
+    "answer": false
+  },
+  {
+    "id": "0006312",
+    "answer": false
+  },
+  {
+    "id": "0001857",
+    "answer": false
+  },
+  {
+    "id": "0001619",
+    "answer": false
+  },
+  {
+    "id": "0001965",
+    "answer": false
+  },
+  {
+    "id": "0006072",
+    "answer": false
+  },
+  {
+    "id": "0001800",
+    "answer": false
+  },
+  {
+    "id": "0001515",
+    "answer": false
+  },
+  {
+    "id": "0006427",
+    "answer": false
+  },
+  {
+    "id": "0001663",
+    "answer": false
+  },
+  {
+    "id": "0006036",
+    "answer": false
+  },
+  {
+    "id": "0006115",
+    "answer": false
+  },
+  {
+    "id": "0001929",
+    "answer": false
+  },
+  {
+    "id": "0008913",
+    "answer": false
+  },
+  {
+    "id": "0008810",
+    "answer": false
+  },
+  {
+    "id": "0006420",
+    "answer": false
+  },
+  {
+    "id": "0002321",
+    "answer": false
+  },
+  {
+    "id": "0001560",
+    "answer": false
+  },
+  {
+    "id": "0006551",
+    "answer": false
+  },
+  {
+    "id": "0001676",
+    "answer": false
+  },
+  {
+    "id": "0001702",
+    "answer": false
+  },
+  {
+    "id": "0001910",
+    "answer": false
+  },
+  {
+    "id": "0001569",
+    "answer": false
+  },
+  {
+    "id": "0001115",
+    "answer": false
+  },
+  {
+    "id": "0002285",
+    "answer": false
+  },
+  {
+    "id": "0006130",
+    "answer": false
+  },
+  {
+    "id": "0000241",
+    "answer": false
+  },
+  {
+    "id": "0001686",
+    "answer": false
+  },
+  {
+    "id": "0006031",
+    "answer": false
+  },
+  {
+    "id": "0001842",
+    "answer": false
+  },
+  {
+    "id": "0002243",
+    "answer": false
+  },
+  {
+    "id": "0006232",
+    "answer": false
+  },
+  {
+    "id": "0001527",
+    "answer": false
+  },
+  {
+    "id": "0008915",
+    "answer": false
+  },
+  {
+    "id": "0000245",
+    "answer": false
+  },
+  {
+    "id": "0006364",
+    "answer": false
+  },
+  {
+    "id": "0008841",
+    "answer": false
+  },
+  {
+    "id": "0006379",
+    "answer": false
+  },
+  {
+    "id": "0006269",
+    "answer": false
+  },
+  {
+    "id": "0008882",
+    "answer": false
+  },
+  {
+    "id": "0006468",
+    "answer": false
+  },
+  {
+    "id": "0001779",
+    "answer": false
+  },
+  {
+    "id": "0006567",
+    "answer": false
+  },
+  {
+    "id": "0008945",
+    "answer": false
+  },
+  {
+    "id": "0001448",
+    "answer": false
+  },
+  {
+    "id": "0002072",
+    "answer": false
+  },
+  {
+    "id": "0008788",
+    "answer": false
+  },
+  {
+    "id": "0006149",
+    "answer": false
+  },
+  {
+    "id": "0006422",
+    "answer": false
+  },
+  {
+    "id": "0002006",
+    "answer": false
+  },
+  {
+    "id": "0006416",
+    "answer": false
+  },
+  {
+    "id": "0001500",
+    "answer": false
+  },
+  {
+    "id": "0006381",
+    "answer": false
+  },
+  {
+    "id": "0000063",
+    "answer": false
+  },
+  {
+    "id": "0001775",
+    "answer": false
+  },
+  {
+    "id": "0001820",
+    "answer": false
+  },
+  {
+    "id": "0001642",
+    "answer": false
+  },
+  {
+    "id": "0006303",
+    "answer": false
+  },
+  {
+    "id": "0006562",
+    "answer": false
+  },
+  {
+    "id": "0000025",
+    "answer": false
+  },
+  {
+    "id": "0001635",
+    "answer": false
+  },
+  {
+    "id": "0006403",
+    "answer": false
+  },
+  {
+    "id": "0006333",
+    "answer": false
+  },
+  {
+    "id": "0006127",
+    "answer": false
+  },
+  {
+    "id": "0001610",
+    "answer": false
+  },
+  {
+    "id": "0008870",
+    "answer": false
+  },
+  {
+    "id": "0001925",
+    "answer": false
+  },
+  {
+    "id": "0001538",
+    "answer": false
+  },
+  {
+    "id": "0006335",
+    "answer": false
+  },
+  {
+    "id": "0002063",
+    "answer": false
+  },
+  {
+    "id": "0006306",
+    "answer": false
+  },
+  {
+    "id": "0008814",
+    "answer": false
+  },
+  {
+    "id": "0001161",
+    "answer": false
+  },
+  {
+    "id": "0006443",
+    "answer": false
+  },
+  {
+    "id": "0006433",
+    "answer": false
+  },
+  {
+    "id": "0001551",
+    "answer": false
+  },
+  {
+    "id": "0001926",
+    "answer": false
+  },
+  {
+    "id": "0001611",
+    "answer": false
+  },
+  {
+    "id": "0002082",
+    "answer": false
+  },
+  {
+    "id": "0006154",
+    "answer": false
+  },
+  {
+    "id": "0000133",
+    "answer": true
+  },
+  {
+    "id": "0001275",
+    "answer": true
+  },
+  {
+    "id": "0005310",
+    "answer": true
+  },
+  {
+    "id": "0005476",
+    "answer": true
+  },
+  {
+    "id": "0002004",
+    "answer": false
+  },
+  {
+    "id": "0001868",
+    "answer": false
+  },
+  {
+    "id": "0001461",
+    "answer": false
+  },
+  {
+    "id": "0006204",
+    "answer": false
+  },
+  {
+    "id": "0001999",
+    "answer": false
+  },
+  {
+    "id": "0006025",
+    "answer": false
+  },
+  {
+    "id": "0006524",
+    "answer": false
+  },
+  {
+    "id": "0001667",
+    "answer": false
+  },
+  {
+    "id": "0001816",
+    "answer": false
+  },
+  {
+    "id": "0006479",
+    "answer": false
+  },
+  {
+    "id": "0001908",
+    "answer": false
+  },
+  {
+    "id": "0006134",
+    "answer": false
+  },
+  {
+    "id": "0002046",
+    "answer": false
+  },
+  {
+    "id": "0006300",
+    "answer": false
+  },
+  {
+    "id": "0006360",
+    "answer": false
+  },
+  {
+    "id": "0002184",
+    "answer": false
+  },
+  {
+    "id": "0006166",
+    "answer": false
+  },
+  {
+    "id": "0006262",
+    "answer": false
+  },
+  {
+    "id": "0006064",
+    "answer": false
+  },
+  {
+    "id": "0006389",
+    "answer": false
+  },
+  {
+    "id": "0000268",
+    "answer": false
+  },
+  {
+    "id": "0008850",
+    "answer": false
+  },
+  {
+    "id": "0001886",
+    "answer": false
+  },
+  {
+    "id": "0001533",
+    "answer": false
+  },
+  {
+    "id": "0006113",
+    "answer": false
+  },
+  {
+    "id": "0006038",
+    "answer": false
+  },
+  {
+    "id": "0001508",
+    "answer": false
+  },
+  {
+    "id": "0001924",
+    "answer": false
+  },
+  {
+    "id": "0002251",
+    "answer": false
+  },
+  {
+    "id": "0001903",
+    "answer": false
+  },
+  {
+    "id": "0001581",
+    "answer": false
+  },
+  {
+    "id": "0006474",
+    "answer": false
+  },
+  {
+    "id": "0001614",
+    "answer": false
+  },
+  {
+    "id": "0001547",
+    "answer": false
+  },
+  {
+    "id": "0002062",
+    "answer": false
+  },
+  {
+    "id": "0002065",
+    "answer": false
+  },
+  {
+    "id": "0001653",
+    "answer": false
+  },
+  {
+    "id": "0001983",
+    "answer": false
+  },
+  {
+    "id": "0002279",
+    "answer": false
+  },
+  {
+    "id": "0001617",
+    "answer": false
+  },
+  {
+    "id": "0006037",
+    "answer": false
+  },
+  {
+    "id": "0006274",
+    "answer": false
+  },
+  {
+    "id": "0006325",
+    "answer": false
+  },
+  {
+    "id": "0000267",
+    "answer": false
+  },
+  {
+    "id": "0006550",
+    "answer": false
+  },
+  {
+    "id": "0006270",
+    "answer": false
+  },
+  {
+    "id": "0002029",
+    "answer": false
+  },
+  {
+    "id": "0002239",
+    "answer": false
+  },
+  {
+    "id": "0006244",
+    "answer": false
+  },
+  {
+    "id": "0006392",
+    "answer": false
+  },
+  {
+    "id": "0006231",
+    "answer": false
+  },
+  {
+    "id": "0006564",
+    "answer": false
+  },
+  {
+    "id": "0001665",
+    "answer": false
+  },
+  {
+    "id": "0008938",
+    "answer": false
+  },
+  {
+    "id": "0006193",
+    "answer": false
+  },
+  {
+    "id": "0006047",
+    "answer": false
+  },
+  {
+    "id": "0008845",
+    "answer": false
+  },
+  {
+    "id": "0006250",
+    "answer": false
+  },
+  {
+    "id": "0006534",
+    "answer": false
+  },
+  {
+    "id": "0002083",
+    "answer": false
+  },
+  {
+    "id": "0008844",
+    "answer": false
+  },
+  {
+    "id": "0001915",
+    "answer": false
+  },
+  {
+    "id": "0002130",
+    "answer": false
+  },
+  {
+    "id": "0001706",
+    "answer": false
+  },
+  {
+    "id": "0006264",
+    "answer": false
+  },
+  {
+    "id": "0006132",
+    "answer": false
+  },
+  {
+    "id": "0006209",
+    "answer": false
+  },
+  {
+    "id": "0006452",
+    "answer": false
+  },
+  {
+    "id": "0006399",
+    "answer": false
+  },
+  {
+    "id": "0001970",
+    "answer": false
+  },
+  {
+    "id": "0006302",
+    "answer": false
+  },
+  {
+    "id": "0001853",
+    "answer": false
+  },
+  {
+    "id": "0006167",
+    "answer": false
+  },
+  {
+    "id": "0006128",
+    "answer": false
+  },
+  {
+    "id": "0006459",
+    "answer": false
+  },
+  {
+    "id": "0000303",
+    "answer": false
+  }
+]
