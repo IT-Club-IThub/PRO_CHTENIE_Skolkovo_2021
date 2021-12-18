@@ -6,17 +6,16 @@ import os
 from datetime import datetime
 
 def main():
-    dataset_path = "dataset_numWords_48131_xLen_300_step_(150, 35)_.npz"
+    dataset_path = "NEWdataset_numWords_48131_xLen_300_step_300_.npz"
     print("--------------" + dataset_path.upper() + "--------------")
     dataset = '../datasets/' + dataset_path
     debug = True
-    step = 150
+    step = 300
     model = LSTM_NN(dataset, debug=debug, batch_size=128, step=step)
     model.compile()
     # model.model.load_weights('title2')
-    while (True):
-        model.fit(2)
-        model.check()
+    model.fit(10)
+    model.check()
         # a = input('y or s?:')
         # if a == "s":
         #     model.model.save_weights('title2')
