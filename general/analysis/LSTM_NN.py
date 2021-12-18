@@ -3,10 +3,11 @@ from tensorflow.keras.layers import Dense, SpatialDropout1D, BatchNormalization,
 import numpy as np
 
 class LSTM_NN:
-  def __init__(self, dataset_path: str, debug: bool,batch_size:int, epochs:int=15):
+  def __init__(self, dataset_path: str, debug: bool,batch_size:int, step: int, epochs:int=15):
     self.dataset_path = dataset_path
     self.debug = debug
     self.batch_size = batch_size
+    self.step = step
 
     dataset = np.load(dataset_path)
     self.xTrain = dataset['xTrain']
@@ -26,9 +27,9 @@ class LSTM_NN:
 
     filename = dataset_path.split('/')[-1]
     self.numWords = int(filename.split('_')[2])
-    self.xLen = int(filename.split('_')[5])
+    self.xLen = int(filename.split('_')[4])
     # self.batch_size = 32
-    self.step = int(filename.split('_')[7])
+    # self.step = int(filename.split('_')[7])
     self.units_LSTM = 10
     self.epochs = epochs
 
