@@ -5,19 +5,13 @@ from RNN_NN import RNN_NN
 import os
 
 def main():
-    for dataset_path in sorted(os.listdir('../datasets/'))[::-1]:
+    # for dataset_path in sorted(os.listdir('../datasets/'))[::-1]:
+    for dataset_path in ['dataset_numWords_20000__xLen_500_step_100_BOW.npz', 'dataset_numWords_20000__xLen_500_step_100_.npz']:
         print("--------------" + dataset_path.upper() + "--------------")
         dataset = '../datasets/' + dataset_path
         debug = False
-        
-        if "BOW" in dataset_path:
-            print('BOW_NN')
-            model = BOW_NN(dataset, debug=debug)
-        else:
-            print("LSTM_NN")
-            model = LSTM_NN(dataset, debug=debug)
-
         try:
+            model = BOW_NN(dataset, debug=debug, batch_size=128)
             model.compile()
             model.fit()
             model.check()

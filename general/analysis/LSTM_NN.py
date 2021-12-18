@@ -27,7 +27,7 @@ class LSTM_NN:
     filename = dataset_path.split('/')[-1]
     self.numWords = int(filename.split('_')[2])
     self.xLen = int(filename.split('_')[5])
-    self.batch_size = 32
+    # self.batch_size = 32
     self.step = int(filename.split('_')[7])
     self.units_LSTM = 10
     self.epochs = epochs
