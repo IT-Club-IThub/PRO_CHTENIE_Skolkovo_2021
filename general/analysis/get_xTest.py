@@ -77,9 +77,10 @@ def get_xTest(elem):
       text = file['text']
       testText.append(text)
 
+
   xLen = 300
 
-  testTextArray = tokenizer.texts_to_sequences(testText[0])
+  testTextArray = tokenizer.texts_to_sequences(testText)
   xTest = createSetsMultiClassesTest(testTextArray, xLen, xLen)
 
   return xTest

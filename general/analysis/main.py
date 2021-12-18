@@ -26,7 +26,6 @@ def main():
         for i in range(len(data)):
             elem = data[i]
             xTestWrode = get_xTest(elem)
-            print(xTestWrode)
             pred = model.model.predict(xTestWrode)
             print(pred)
 
