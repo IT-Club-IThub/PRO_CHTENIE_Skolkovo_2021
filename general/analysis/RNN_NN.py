@@ -5,7 +5,7 @@ from NN import NN
 class RNN_NN(NN): 
   def compile(self):
     self.model = Sequential()
-    self.model.add(Embedding(self.numWords, 5, input_length=self.xLen))
+    self.model.add(Embedding(self.numWords, 10, input_length=self.xLen))
     self.model.add(SpatialDropout1D(0.2))
     self.model.add(BatchNormalization())
     self.model.add(SimpleRNN(16, dropout=0.2, recurrent_dropout=0.2, activation="relu"))

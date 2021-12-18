@@ -5,7 +5,7 @@ from NN import NN
 class Embedding_NN(NN):
   def compile(self):
     self.model = Sequential()
-    self.model.add(Embedding(self.numWords, 10, input_length=self.xLen))
+    self.model.add(Embedding(self.numWords, 50, input_length=self.xLen))
     self.model.add(SpatialDropout1D(0.20))
     self.model.add(Flatten())
     self.model.add(BatchNormalization())
