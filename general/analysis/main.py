@@ -5,32 +5,26 @@ from RNN_NN import RNN_NN
 import os
 
 def main():
-    for dataset_path in sorted(os.listdir('../datasets/')[::-1]):
+    for dataset_path in sorted(os.listdir('../datasets/'))[::-1]:
         print("--------------" + dataset_path.upper() + "--------------")
         dataset = '../datasets/' + dataset_path
         debug = False
+        
         if "BOW" in dataset_path:
             print('BOW_NN')
             model = BOW_NN(dataset, debug=debug)
-            model.compile()
-            model.fit()
-            model.check()
-        else: 
-            print('Embedding_NN')
-            model = Embedding_NN(dataset, debug=debug)
-            model.compile()
-            model.fit()
-            model.check()
-            print('LSTM_NN')
+        else:
+            print("LSTM_NN")
             model = LSTM_NN(dataset, debug=debug)
+
+        try:
             model.compile()
             model.fit()
             model.check()
-            print('RNN_NN')
-            model = RNN_NN(dataset, debug=debug)
-            model.compile()
-            model.fit()
-            model.check()
+        except:
+            print('Error')
+       
 
 if __name__ == "__main__":
     main()
+  
