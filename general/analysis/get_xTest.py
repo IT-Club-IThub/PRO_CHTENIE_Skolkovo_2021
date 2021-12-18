@@ -33,53 +33,53 @@ def createSetsMultiClassesTest(wordIndexes, xLen, step): # Функция при
 
 
 def get_xTest(elem):
-    textClasses = ['', '']
+  textClasses = ['', '']
 
-    # открываем файл с id эссе и ответами
-    with open(JSON_DATA_DIR + '/train/train_standart.json', 'r') as f_list:
-        data = json.load(f_list)
+  # открываем файл с id эссе и ответами
+  with open(JSON_DATA_DIR + '/train/train_standart.json', 'r') as f_list:
+    data = json.load(f_list)
 
-    # проходимся по каждому "блоку" с эссе
+# проходимся по каждому "блоку" с эссе
     for i in range(len(data)):
-        elem = data[i]
+      elem = data[i]
 
-        with open(JSON_DATA_DIR + f'/train/essays/{elem["id"]}.json', 'r') as essay:
-            file = json.load(essay)
-            text = file['text']
-            if elem['answer'] == False:
-                textClasses[0] += text
-                textClasses[0] += '#'
-            else:
-                textClasses[1] += text
-                textClasses[1] += '#'
-
-    texts_false = textClasses[0].split("#")
-    texts_true = textClasses[1].split("#")
-
-    trainText = []
-    trainText.append(' '.join(texts_false))
-    trainText.append(' '.join(texts_true))
-
-    tokenizer = Tokenizer(
-                filters='!"#$%&()*+,-–—./…:;<=>?@[\\]^_`{|}~«»\t\n\xa0\ufeff',
-                lower=True,
-                split=' ',
-                oov_token='unknown',
-                char_level=False)
-
-    tokenizer.fit_on_texts(trainText)   
-
-
-    testText = []
-
-    with open(JSON_DATA_DIR + f'/test/essays/{elem["id"]}.json', 'r') as essay:
+      with open(JSON_DATA_DIR + f'/train/essays/{elem["id"]}.json', 'r') as essay:
         file = json.load(essay)
         text = file['text']
-        testText.append(text)
+        if elem['answer'] == False:
+          textClasses[0] += text
+          textClasses[0] += '#'
+        else:
+          textClasses[1] += text
+          textClasses[1] += '#'
 
-    xLen = 300
+  texts_false = textClasses[0].split("#")
+  texts_true = textClasses[1].split("#")
 
-    testTextArray = tokenizer.texts_to_sequences(testText[i][0])
-    xTest = createSetsMultiClassesTest(testTextArray, xLen, xLen)
+  trainText = []
+  trainText.append(' '.join(texts_false))
+  trainText.append(' '.join(texts_true))
 
-    return xTest
+  tokenizer = Tokenizer(
+              filters='!"#$%&()*+,-–—./…:;<=>?@[\\]^_`{|}~«»\t\n\xa0\ufeff',
+              lower=True,
+              split=' ',
+              oov_token='unknown',
+              char_level=False)
+
+  tokenizer.fit_on_texts(trainText)   
+
+
+  testText = []
+
+  with open(JSON_DATA_DIR + f'/test/essays/{elem["id"]}.json', 'r') as essay:
+      file = json.load(essay)
+      text = file['text']
+      testText.append(text)
+
+  xLen = 300
+
+  testTextArray = tokenizer.texts_to_sequences(testText[i][0])
+  xTest = createSetsMultiClassesTest(testTextArray, xLen, xLen)
+
+  return xTest
