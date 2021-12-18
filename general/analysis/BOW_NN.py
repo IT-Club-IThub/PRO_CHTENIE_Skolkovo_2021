@@ -4,9 +4,10 @@ import numpy as np
 from tensorflow.python.keras.layers.core import Dropout
 
 class BOW_NN:
-  def __init__(self, dataset_path: str, debug: bool, epochs:int=15):
+  def __init__(self, dataset_path: str, debug: bool, batch_size: int, epochs:int=15):
     self.dataset_path = dataset_path
     self.debug = debug
+    self.batch_size = batch_size
 
     dataset = np.load(dataset_path)
     self.xTrain = dataset['xTrain']
@@ -27,16 +28,12 @@ class BOW_NN:
     filename = dataset_path.split('/')[-1]
     self.numWords = int(filename.split('_')[2])
     self.xLen = int(filename.split('_')[5])
-    self.batch_size = 32
-    self.step = int(filename.split('_')[7])
-    self.units_LSTM = 10
     self.epochs = epochs
 
-    
 
   def compile(self):
     self.model = Sequential()
-    self.model.add(Dense(512, input_dim=10000, activation="relu"))
+    self.model.add(Dense(512, input_dim=self.numWords, activation="relu"))
     self.model.add(Dropout(0.25))
     self.model.add(Dense(2, activation='softmax'))
     self.model.compile(optimizer='adam', 

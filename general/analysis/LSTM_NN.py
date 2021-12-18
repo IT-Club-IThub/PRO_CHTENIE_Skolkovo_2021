@@ -3,9 +3,10 @@ from tensorflow.keras.layers import Dense, SpatialDropout1D, BatchNormalization,
 import numpy as np
 
 class LSTM_NN:
-  def __init__(self, dataset_path: str, debug: bool, epochs:int=15):
+  def __init__(self, dataset_path: str, debug: bool,batch_size:int, epochs:int=15):
     self.dataset_path = dataset_path
     self.debug = debug
+    self.batch_size = batch_size
 
     dataset = np.load(dataset_path)
     self.xTrain = dataset['xTrain']
@@ -55,7 +56,6 @@ class LSTM_NN:
                                 epochs=self.epochs,
                                 batch_size=self.batch_size,
                                 validation_data=(self.xVal, self.yVal),
-                                # validation_split=0.2,
                                 use_multiprocessing=True,
                                 verbose=int(self.debug))
 
