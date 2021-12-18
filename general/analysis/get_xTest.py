@@ -41,12 +41,12 @@ def get_xTest(elem):
 
 # проходимся по каждому "блоку" с эссе
     for i in range(len(data)):
-      elem = data[i]
+      elem1 = data[i]
 
-      with open(JSON_DATA_DIR + f'/train/essays/{elem["id"]}.json', 'r') as essay:
+      with open(JSON_DATA_DIR + f'/train/essays/{elem1["id"]}.json', 'r') as essay:
         file = json.load(essay)
         text = file['text']
-        if elem['answer'] == False:
+        if elem1['answer'] == False:
           textClasses[0] += text
           textClasses[0] += '#'
         else:
@@ -79,7 +79,7 @@ def get_xTest(elem):
 
   xLen = 300
 
-  testTextArray = tokenizer.texts_to_sequences(testText[i][0])
+  testTextArray = tokenizer.texts_to_sequences(testText[0])
   xTest = createSetsMultiClassesTest(testTextArray, xLen, xLen)
 
   return xTest

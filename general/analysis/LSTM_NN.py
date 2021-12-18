@@ -13,6 +13,6 @@ class LSTM_NN(NN):
     self.model.add(Dense(2, activation='softmax'))
     self.model.compile(optimizer='adam', 
                     loss='categorical_crossentropy', 
-                    metrics=['accuracy'])
+                    metrics=['accuracy'], run_eagerly=True)
     if(self.debug):
       self.model.summary()
