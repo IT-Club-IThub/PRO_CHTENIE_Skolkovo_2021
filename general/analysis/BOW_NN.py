@@ -27,7 +27,7 @@ class BOW_NN:
 
     filename = dataset_path.split('/')[-1]
     self.numWords = int(filename.split('_')[2])
-    self.xLen = int(filename.split('_')[5])
+    # self.xLen = int(filename.split('_')[5])
     self.epochs = epochs
 
 
